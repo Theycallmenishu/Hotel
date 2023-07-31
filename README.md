@@ -1,1 +1,1 @@
-# Hotela
+# Hotel
